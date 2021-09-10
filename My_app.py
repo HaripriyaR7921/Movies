@@ -28,6 +28,6 @@ elif choice == 5:
 elif choice == 6:
 	Movies_db.year_lookup(int(input(("Enter year:"))))
 
-#Movies_db.movie_lookup(input("Enter the movie name:"))
+
 
 
